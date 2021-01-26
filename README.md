@@ -1,7 +1,4 @@
-<h2> Hey there! I'm Guilherme.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+<h2> 👋 Hey there! I'm Guilherme.</h2>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

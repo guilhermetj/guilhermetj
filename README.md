@@ -3,7 +3,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C#](https://img.shields.io/C#/-333333?style=flat&logo=csharp)
+  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=csharp)
   ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;

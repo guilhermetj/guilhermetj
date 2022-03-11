@@ -3,11 +3,11 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C#]https://img.shields.io/badge/-333333?style=flat&logo=csharp
+  ![C#](https://img.shields.io/C#/-333333?style=flat&logo=csharp)
   ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
-- ![.NET]https://img.shields.io/badge/-Dotnet-333333?style=flat&logo=dotnet
+- ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)

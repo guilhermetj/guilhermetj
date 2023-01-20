@@ -24,10 +24,7 @@
 
 <br/>
 
-<a href="https://github.com/guilhermetj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermetj&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermetj&theme=buefy&layout=compact" />
-</a>
+
 
 <br/>
 

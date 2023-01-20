@@ -32,5 +32,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/guilherme-pereira-2b9195193/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Guilherme%20Pereira-blue?style=flat-square&logo=linkedin"></a>	
-<a href="mailto:guips1998@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-guips1998@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:guilhermetj.contato@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-guips1998@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
